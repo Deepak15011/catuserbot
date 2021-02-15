@@ -2,7 +2,7 @@
 A simple Telegram userbot based on Telethon .
 [![catuserbot logo](https://telegra.ph/file/51f6431dd1530bd7e90c0.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot)
 [![HitCount](http://hits.dwyl.com/Deepak15011/catuser.svg)](http://hits.dwyl.com/Deepak15011/lightsbot)
-[![CodeFactor](https://www.codefactor.io/repository/github/sandy1709/catuserbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/sandy1709/catuserbot)
+[![CodeFactor](https://www.codefactor.io/repository/github/Deepak15011/lightsbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/sandy1709/catuserbot)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/Deepak15011/lightsbot/graphs/commit-activity) 
 ![Repo Size](https://img.shields.io/github/repo-size/sandy1709/catuserbot?&style=flat-square&logo=github)
@@ -19,7 +19,8 @@ A simple Telegram userbot based on Telethon .
 
 ## How to deploy catuserbot
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)]((https://heroku.com/deploy?template=https://github.com/Deepak15011/lightsbot)
+<p align="center">)
 
   <details>
     <summary>Steps to deploy on Heroku !! </summary>
