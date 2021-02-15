@@ -21,7 +21,7 @@ A simple Telegram userbot based on Telethon .
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Deepak15011/lightsbot)
 <p align="center">
-<p align="center">)
+
 
   <details>
     <summary>Steps to deploy on Heroku !! </summary>
