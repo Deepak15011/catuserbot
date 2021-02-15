@@ -14,7 +14,7 @@ from . import ALIVE_NAME, PM_START, PMMESSAGE_CACHE, set_key
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "cat"
 PREV_REPLY_MESSAGE = {}
-PM = f"""Hello. You are accessing the availabe menu of my master, {DEFAULTUSER}.
+PM = f"""Hello. welcome to the world light bringer, {DEFAULTUSER}.
 __Let's make this smooth and let me know why you are here.__
 **Choose one of the following reasons why you are here:**
 
@@ -22,7 +22,7 @@ __Let's make this smooth and let me know why you are here.__
 `b`. To spam my master's inbox.
 `c`. To enquire something
 `d`. To request something\n"""
-ONE = """__Okay. Your request has been registered. Do not spam my master's inbox.You can expect a reply within next few years. He/She is a busy man, unlike you probably.__
+ONE = """__Okay. Your request has been registered. Do not spam my master's inbox.You can expect a reply within next few years. He is a busy man, unlike you probably.__
 
 **⚠️ You will be blocked and reported if you spam. ⚠️**\n\n"""
 TWO = " `███████▄▄███████████▄  \n▓▓▓▓▓▓█░░░░░░░░░░░░░░█\n▓▓▓▓▓▓█░░░░░░░░░░░░░░█\n▓▓▓▓▓▓█░░░░░░░░░░░░░░█\n▓▓▓▓▓▓█░░░░░░░░░░░░░░█\n▓▓▓▓▓▓█░░░░░░░░░░░░░░█\n▓▓▓▓▓▓███░░░░░░░░░░░░█\n██████▀▀▀█░░░░██████▀  \n░░░░░░░░░█░░░░█  \n░░░░░░░░░░█░░░█  \n░░░░░░░░░░░█░░█  \n░░░░░░░░░░░█░░█  \n░░░░░░░░░░░░▀▀ `\n\n**So uncool, this is not your home. Go bother someone else. You have been blocked and reported until further notice.**"
